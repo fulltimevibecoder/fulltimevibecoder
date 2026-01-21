@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=I'm+%5BFullTimeVibeCoder%5D;Finance+Student+%7C+Entrepreneur+%7C+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=I'm+%5BAbdalla+Mohamed%5D;Finance+Student+%7C+Entrepreneur+%7C+Developer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <!-- About Me Section -->
 ```yaml
-name: FullTimeVibeCoder
+name: Abdalla Mohamed
 located_in: Egypt
 education: Bachelor's in Finance (3rd Year)
 roles: Entrepreneur, Finance Student, Developer
